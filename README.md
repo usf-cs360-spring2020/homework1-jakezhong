@@ -1,6 +1,6 @@
 # About Me
 
-<https://usf-cs360-spring2020.github.io/jakezhong/>
+<https://usf-cs360-spring2020.github.io/homework1-jakezhong/>
 
 ![Profile Image](profile.jpg)
 
@@ -18,5 +18,3 @@
 Hi there! This is Jake Zhong. I am from Guangdong China and I have been to America more than 5 years, with 5 years in Boston and half year in San Francisco.
 
 I love programming, especially things relavant to Web, such website, web game and web application and I started working on web products many years ago and I worked as a Web Developer before in Boston.
-
-*Template based on: <https://github.com/usf-cs360-spring2020/template-basic>*
